@@ -10,7 +10,8 @@ Notes and additional links
 
 * Since matplotlib is so complex and figures are hard to get right, one
   approach is to select an example from the gallery that looks somewhat like
-  the figure you want and customize it.
+  the figure you want and customize it:
+  http://matplotlib.org/gallery.html
 
 * Recommended reading about the architecture of matplotlib:
 
